@@ -1,0 +1,19 @@
+services:
+  voice-studio:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: yqx267n9na-1784562650138-voice-studio:latest
+    container_name: zenvyro_voice_studio
+    ports:
+      - "7860:7860"
+    volumes:
+      - .:/workspace
+    environment:
+      - SERVER_NAME=0.0.0.0
+      - INBROWSER=false
+      - HF_HOME=/workspace/hf_cache
+      - TMP=/workspace/temp
+      - TEMP=/workspace/temp
+    tty: true
+
