@@ -1,0 +1,9 @@
+gradio
+yt-dlp
+tomli_w
+edge-tts
+transliterate
+f5-tts
+rvc_python
+noisereduce
+scipy
