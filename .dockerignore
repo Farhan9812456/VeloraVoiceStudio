@@ -1,0 +1,9 @@
+venv/
+rvc_venv/
+temp/
+hf_cache/
+.git/
+*.wav
+*.mp3
+*.log
+app_container.py
