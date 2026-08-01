@@ -1,0 +1,10 @@
+model = "F5TTS_Base"
+ref_audio = "/workspace/temp/trimmed_ref_gen.wav"
+ref_text = "This is a long audio recording designed to serve as a dataset for voice training."
+speed = 1.0
+nfe_step = 10
+gen_text = "a stunning BMW M5 finished in Tanzanite Blue gracefully passed by, instantly silencing their conversation as one whispered, \"That color is unbelievable,\" while the other smiled and replied, \"Tanzanite Blue isn't just a paint—it's a masterpiece that changes from deep sapphire to midnight black with every angle,\" and as the M5's powerful engine echoed into the distance, they looked at each other with admiration, agreeing that while many cars are fast, only a BMW M5 in Tanzanite Blue has the rare ability to turn an ordinary moment into an unforgettable memory.\n"
+output_dir = "/workspace"
+output_file = "dramatic_clone.wav"
+
+[voices]
