@@ -1,4 +1,4 @@
-# 🎙️ Zenvyrolabs Advanced Voice Studio - Engineering Handbook
+# 🎙️VELORAVOICE Advanced Voice Studio - Engineering Handbook
 
 Welcome to the Zenvyrolabs AI Engineering Internship! We are incredibly excited to see you tackle this project.
 
